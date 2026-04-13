@@ -1,4 +1,4 @@
-I’m Pallavi Pawaskar, a Marketing Associate at Accenture and a passionate builder of creative AI & data science projects.
+I’m Pallavi Pawaskar,passionate builder of creative AI & data science projects.
 I enjoy combining practical problem-solving with clean design, and this calculator project reflects my interest in front‑end development, civic‑tech, and AI tools.
 
 ---
@@ -18,33 +18,34 @@ This project demonstrates clean UI design, modular code structure, and practical
 
 ---
 ## 📂 Project Structure
-Calculator/
+```Calculator/
 │
 ├── index.html        → Main HTML file
 ├── calculator.css    → Stylesheet for UI
 └── calculator.js     → JavaScript logic
-
+```
 
 ---
-
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pallavipawaskar/Calculator.git
+   git clone https://github.com/pallavipawaskar/Calculator.git ```
 2. Navigate into the project folder:
    cd Calculator
 3. Open index.html in your browser to start using the calculator.
 
+
 ---
-##🛠 Future Enhancements
+## 🛠 Future Enhancements
 -Add keyboard input support
 
 -Implement advanced functions (percentage, square root, memory storage)
 
 -Improve UI with animations and themes
 
+
 ---
-##📖 Learning Outcomes
+## 📖 Learning Outcomes
 -Hands-on practice with DOM manipulation
 
 -Linking HTML, CSS, and JavaScript effectively
@@ -52,5 +53,5 @@ Calculator/
 -Structuring a project for GitHub portfolio visibility
 
 ---
-##📜 License
+## 📜 License
 This project is open-source. You are free to use and modify it.
